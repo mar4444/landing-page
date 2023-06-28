@@ -57,7 +57,7 @@
 
 > Added a link to my deployed project.
 
-- [Live Demo Link](https://mar4444.github.io/odin-recipes/)
+- [Live Demo Link](https://mar4444.github.io/landing-page/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,7 +81,7 @@
 Install this project with:
 
 - Open your command prompt or terminal and run.
--  git clone https://github.com/mar4444/odin-recipes
+-  git clone git@github.com:mar4444/landing-page.git
 cd -Portfolio-
 
 ### Usage
